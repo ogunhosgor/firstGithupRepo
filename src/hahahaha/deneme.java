@@ -7,6 +7,7 @@ public class deneme {
 		int a = 5 ;
 		System.out.println(a);
 		System.out.println("github");
+		System.out.println("ogun");
 	}
 
 }
